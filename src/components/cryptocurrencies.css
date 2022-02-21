@@ -1,0 +1,14 @@
+.search-crypto {
+    border-radius: 20px;
+    background-color: black;
+}
+
+.crypto-card {
+    border-radius: 20px !important;
+}
+
+.titlells {
+    text-align: center;
+    border-radius: 20px;
+    font-weight: 600;
+}
